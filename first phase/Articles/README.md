@@ -11,7 +11,9 @@ https://github.com/mohammadhoseinazaddel/Ml_Bio/edit/main/first%20phase/Articles
 
 
 nastaran
+
 Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead ECG and Help Identify Those at Risk of Atrial Fibrillation–Related Stroke
+
 <div dir="rtl">
 
 -	 A-fib بی علایم یا دارای غلایم کمی است
