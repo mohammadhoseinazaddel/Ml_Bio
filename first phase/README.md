@@ -1,6 +1,7 @@
-
+<div dir=”rtl”>
 برای داده ها بکی فاطمست 
 یکی mimic
+</div>
 https://physionet.org/content/mimiciii/1.4/
 
 demo:
@@ -16,7 +17,9 @@ https://www.openml.org/search?type=data&status=active&id=43154
 
 https://www.openml.org/search?type=data&status=any&id=43008&sort=runs
 
+<div dir=”rtl”>
 عکسای mri نسترن
+</div>
 device :
  Wrist-Type Photoplethysmographic (PPG) Signals
 Body Sensor Network (WBSN)
