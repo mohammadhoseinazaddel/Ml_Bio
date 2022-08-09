@@ -15,7 +15,7 @@ nastaran
 Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead ECG and Help Identify Those at Risk of Atrial Fibrillation–Related Stroke
 
 <div dir="rtl">
-
+<br>
 -	 A-fib بی علایم یا دارای غلایم کمی است
 -	پیش بینی با استفاده از ECG  12 کاناله  و سن
 -	استفاده از متود deep learning
@@ -32,4 +32,5 @@ Artificial intelligence algorithm for predicting cardiac arrest using electrocar
 -	پیش بینی با استفاده از ECG  12 کاناله  و سن و جنسیت
 -	استفاده از 6 لید برای train  و 12 لید برای validation
 -	دو لایه conv  و دو لایه batch normalization  یک لایه max pooling  و یک لایه drop out 
+<br>
 </div>
