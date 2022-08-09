@@ -8,6 +8,7 @@ https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attac
 patent fatemeh
 
 https://github.com/mohammadhoseinazaddel/Ml_Bio/edit/main/first%20phase/Articles/README.md
+
 <div dir="rtl">
 nastaran
 Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead ECG and Help Identify Those at Risk of Atrial Fibrillation–Related Stroke
