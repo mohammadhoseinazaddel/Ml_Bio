@@ -12,9 +12,10 @@ https://github.com/mohammadhoseinazaddel/Ml_Bio/edit/main/first%20phase/Articles
 
 nastaran
 
-Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead ECG and Help Identify Those at Risk of Atrial Fibrillation–Related Stroke
+**Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead ECG and Help Identify Those at Risk of Atrial Fibrillation–Related Stroke**
 
 <div dir="rtl">
+
 
 -	پیش بینی با استفاده از ECG  12 کاناله  و سن
 -	استفاده از متود deep learning
@@ -25,9 +26,10 @@ Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead 
  
 </div>
 
-Artificial intelligence algorithm for predicting cardiac arrest using electrocardiography
+**Artificial intelligence algorithm for predicting cardiac arrest using electrocardiography**
 <div dir="rtl">
 
+-	ب A-fib بی علایم یا دارای غلایم کمی است
 -	47 هزار داده از 26 هزار بیمار در طول 3 سال
 -	استفاده از روش learning-based artificial intelligence algorithm
 -	پیش بینی با استفاده از ECG  12 کاناله  و سن و جنسیت
