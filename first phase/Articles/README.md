@@ -59,6 +59,55 @@ https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attac
  ![image](https://github.com/mohammadhoseinazaddel/Ml_Bio/blob/main/statics/img/art4%20fp.bmp)
  
 </div>
+Heart rate prediction model based on neural network
+
+- This paper uses Long Short-Term Memory (LSTM) to avoid gradient explosions
+
+- It considered five physiological characteristics included, heart rate signal, gender, age, physical activities and mental state.
+
+- Network layers are:
+1- 1 layer LSTM network model is added, which contains 50 neurons, with the activation function of tanh.
+2- A fully connected Dense layer is added, with the activation function of linear.
+3- Each layer is configured with the dropout rejection rate of 0.2 to prevent overfitting.
+4- A fully connected layer is added, the activation function of ReLU to connect the hidden layer
+and output.
+
+- The number of samples batch size in each training is set as 128, with the training rounds epoch of 100.
+
+- The data of this paper was collected by the laboratory, a total of 48 samples, with the sampling rate of 50Hz, and the data length ranging from 90s to 580s. The testee is a healthy young man without any history of heart disease, who maintains a good mental state and the physical activity is slow walking.
+
+- When other parameters are the same, the effect of prediction by solely relying on the heart rate before the t moment is shown in this figure:
+
+![image](https://user-images.githubusercontent.com/53640254/183687694-51401547-f456-42b5-aa32-0cded01451a0.png)
+
+where Root Mean Square Error (RMSE) is 0.208
+
+- In more complicated cases, such as the testee's more intense physical activities, more unstable mental state, and even the emergence of other diseases, the neural network prediction proposed in this paper has a great application prospect and potential.
+
+
+
+**Real-Time System Prediction for Heart Rate Using Deep Learning and Stream Processing Platforms**
+
+- Data Collection: Medical Information Mart for Intensive Care (MIMIC-II) is used and the heart rate time series from MIMIC-II dataset  on a minute-by-minute basis for one patient has been extracted.
+
+- batch size: 1; learning rate: 0.0001; and epochs: 15
+
+- The proposed real-time prediction system consists of two phases: the oﬄine phase and the online phase. In the oﬄine phase, RNN, LSTM, GRU, and BI-LSTM using one layer, two layers, and three hidden layers are used to train and evaluate HR time-series data.
+
+- The best developed model for each case that has the lowest RMSE is used to evaluate the
+system in real time.
+
+- GRU model has recorded the best performance using three hidden layers.
+
+![image](https://user-images.githubusercontent.com/53640254/183687951-ec3b4217-285f-4180-8a89-43e1e2814240.png)
+
+
+- In the online phase, the developed simulation-based sensor generates HR time-series data and
+sends them to the Kafka Topic. Then, Spark streaming reads HR data from the Kafka topic and sends them to the best developed model to predict HR in the near future 15 minutes in advance.
+
+![image](https://user-images.githubusercontent.com/53640254/183688010-ff82abd4-c0f6-4c24-8cae-f0c450c75cea.png)
+
+
 article 8 mohammad hossein
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8726033/
