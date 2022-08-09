@@ -16,7 +16,6 @@ Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead 
 
 <div dir="rtl">
 
--	 A-fib بی علایم یا دارای غلایم کمی است
 -	پیش بینی با استفاده از ECG  12 کاناله  و سن
 -	استفاده از متود deep learning
 -	داده از 430 هزار بیمار در طول 35 سال گرفته شده و در مجمئع 1.6 میلیون داده از  Geisinger’s clinical   MUSE است
