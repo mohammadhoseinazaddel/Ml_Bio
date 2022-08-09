@@ -27,7 +27,7 @@ nastaran
 -	دو لایه conv  و دو لایه batch normalization  یک لایه max pooling  و یک لایه drop out 
 </div>
 
-![image](https://user-images.githubusercontent.com/53640254/183661570-77da3912-8b02-41bc-a1d0-4e2a1ffa3b40.png)
+![image](https://github.com/mohammadhoseinazaddel/Ml_Bio/blob/main/statics/img/nas1.png)
 <div dir="rtl">
 
 -	معیار مقایسه بر اساس auroc
@@ -37,7 +37,7 @@ nastaran
 **بایومارکرها**
  </div>
  
- ![image](https://user-images.githubusercontent.com/53640254/183662269-bb353b18-6bad-4534-a8ef-a95a2ee551de.png)
+ ![image](https://github.com/mohammadhoseinazaddel/Ml_Bio/blob/main/statics/img/nas%20biomarkers.png)
 
 mohammad hossein
 
@@ -49,7 +49,9 @@ https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attac
 پیش بینی زودهنکام قبل از اعلام کد آبی برای مریض با استفاده از داده های 133 هزار مریض که به NorthShore University HealthSystem که شامل 4 بیمارستان شیکاگو از سال2006 تا 2011 مراجعه کردند و 815 باز کد آبی برای آنها به صدا درآمدهو سیستمدر 2 سوم موارد درست پیش بینی کرده بود و  20 درصد false positive برای سکته قلبی داشته تیمPeter Donnan at the University of Dunde روش کار میکنه تا با دیتاهای بیمارستانای دیگه بهترش کنه و قرارهhttps://www.kdd.org/kdd2014/ ارایه بشه
  
  در مقاله 4 ام با استفاده از داده های مه در EMR که شامل ثبت تمامی اطلاعات حیاتی و آرمایشگاهی و عکس های بیماری و ناریخجه بیمار هست و با استقاده از روش هاس کلاسیک svm و Logestic بیمارا را به دو دسته که حال وخیم پیش میاد براشون و یا نه تقسیم بندی کردن و 30 درصد false positive داشتن
-
+ 
+[EMR](https://en.wikipedia.org/wiki/Electronic_health_record)
+ 
  ![image](https://github.com/mohammadhoseinazaddel/Ml_Bio/blob/main/statics/img/art4%20hart%20rate%20temprature%20time%20series.png)
  
  ![image](https://github.com/mohammadhoseinazaddel/Ml_Bio/blob/main/statics/img/art4%20lab%20vital%20features.png)
