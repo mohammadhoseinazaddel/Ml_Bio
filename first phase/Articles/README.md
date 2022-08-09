@@ -112,6 +112,7 @@ Predicting two-year survival versus nonsurvival
 after first myocardial infarction
 using machine learning and Swedish
 national register data
+
 <div dir="rtl">
 •	در این پژوهش نرخ زنده ماندن افراد دو سال پس از وقوع سکته سکته قلبی بررسی شده است.
 •	سکته قلبی عامل 17 درصد مرگ میر دنیا و مهم ترین عامل مرگ در جهان است.
