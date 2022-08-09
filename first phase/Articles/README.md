@@ -107,6 +107,26 @@ sends them to the Kafka Topic. Then, Spark streaming reads HR data from the Kafk
 
 ![image](https://user-images.githubusercontent.com/53640254/183688010-ff82abd4-c0f6-4c24-8cae-f0c450c75cea.png)
 
+fatemeh
+Predicting two-year survival versus nonsurvival
+after first myocardial infarction
+using machine learning and Swedish
+national register data
+<div dir="rtl">
+•	در این پژوهش نرخ زنده ماندن افراد دو سال پس از وقوع سکته سکته قلبی بررسی شده است.
+•	سکته قلبی عامل 17 درصد مرگ میر دنیا و مهم ترین عامل مرگ در جهان است.
+•	با 4 الگوریتم رندم Boosted C5وSVM و Logistic Regression و  Random Forest.
+•	بهترین نتایج (AUROC = 0.845, PPV = 0.280, NPV = 0.966)
+•	داده ها طی سال های 2006 تا 2011 از تمام بیمارستان های سوئد جمع اوری شدند و در مجموع اطلاعات 51943 نفر که برای اولین بار سکته قلبی کرده بودند بررسی شد .
+•	بررسی ها با c# , r و مدل در دسترس است.
+•	داده ها قابل دسترسی نیست .
+
+</div>
+
+![image](https://user-images.githubusercontent.com/53640254/183700873-c57c7f26-5cf4-42e9-88af-ccd62fc3b700.png)
+![image](https://user-images.githubusercontent.com/53640254/183700926-971a224c-c815-446f-b1ae-185dc26c1a7a.png)
+![image](https://user-images.githubusercontent.com/53640254/183700959-57309568-d936-4106-ac41-4f6efee69892.png)
+
 
 article 8 mohammad hossein
 
