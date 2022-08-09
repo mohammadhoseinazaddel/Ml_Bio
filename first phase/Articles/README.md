@@ -46,8 +46,7 @@ mohammad hossein
 https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attacks-4-hours-before-doctors/
 <div dir="rtl">
 
-پیش بینی زودهنکام قبل از اعلام کد آبی برای مریض با استفاده از داده های 133 هزار مریض که به NorthShore University HealthSystemمراجعه کردند
-
+پیش بینی زودهنکام قبل از اعلام کد آبی برای مریض با استفاده از داده های 133 هزار مریض که به NorthShore University HealthSystem که شامل 4 بیمارستان شیکاگو از سال2006 تا 2011 مراجعه کردند و 815 باز کد آبی برای آنها به صدا درآمدهو سیستمدر 2 سوم موارد درست پیش بینی کرده بود و  20 درصد false positive برای سکته قلبی داشته تیمPeter Donnan at the University of Dunde روش کار میکنه تا با دیتاهای بیمارستانای دیگه بهترش کنه و قراره  (https://www.kdd.org/kdd2014/)[Knowledge Discovery and Data Mining] ارایه بشه
 </div>
 article 8 mohammad hossein
 
