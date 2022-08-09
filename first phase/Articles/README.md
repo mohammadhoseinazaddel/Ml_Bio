@@ -23,6 +23,7 @@ Deep Neural Networks Can Predict New Onset Atrial Fibrillation From the 12-Lead 
 -	معیار مقایسه: roc curve, precisions-recall
 -	62 درصد بیمارانی که پیش بینی شده بود دچار a-fib  بشوند در طول 3 سال به این بیماری دچار شدند
 -	مقایسه گروه های normal و abnormal  به صورت جداگانه و مقایسه کلی با مدل Xgboost  که نتیجه بهتره گرفته 
+ 
 </div>
 
 Artificial intelligence algorithm for predicting cardiac arrest using electrocardiography
