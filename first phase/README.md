@@ -20,6 +20,7 @@ https://www.openml.org/search?type=data&status=any&id=43008&sort=runs
 <div dir=”rtl”>
 عکسای mri نسترن
 </div>
+
 # device :
 
 ### Body Sensor Network (WBSN)
