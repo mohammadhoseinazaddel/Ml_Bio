@@ -39,7 +39,16 @@ nastaran
  
  ![image](https://user-images.githubusercontent.com/53640254/183662269-bb353b18-6bad-4534-a8ef-a95a2ee551de.png)
 
+mohammad hossein
 
+***Machine predicts heart attacks 4 hours before doctors***
+
+https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attacks-4-hours-before-doctors/
+<div dir="rtl">
+
+پیش بینی زودهنکام قبل از اعلام کد آبی برای مریض با استفاده از داده های 133 هزار مریض که به NorthShore University HealthSystemمراجعه کردند
+
+</div>
 article 8 mohammad hossein
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8726033/
