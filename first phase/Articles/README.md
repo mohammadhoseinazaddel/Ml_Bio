@@ -108,10 +108,11 @@ sends them to the Kafka Topic. Then, Spark streaming reads HR data from the Kafk
 ![image](https://user-images.githubusercontent.com/53640254/183688010-ff82abd4-c0f6-4c24-8cae-f0c450c75cea.png)
 
 fatemeh
-Predicting two-year survival versus nonsurvival
+
+**Predicting two-year survival versus nonsurvival
 after first myocardial infarction
 using machine learning and Swedish
-national register data
+national register data**
 
 <div dir="rtl">
 •	در این پژوهش نرخ زنده ماندن افراد دو سال پس از وقوع سکته سکته قلبی بررسی شده است.
