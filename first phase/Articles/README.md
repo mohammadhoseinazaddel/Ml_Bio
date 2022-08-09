@@ -1,14 +1,4 @@
 
-article 8 mohammad hossein
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8726033/
-+
-https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attacks-4-hours-before-doctors/
-
-patent fatemeh
-
-https://github.com/mohammadhoseinazaddel/Ml_Bio/edit/main/first%20phase/Articles/README.md
-
 
 nastaran
 
@@ -36,3 +26,27 @@ nastaran
 -	استفاده از 6 لید برای train  و 12 لید برای validation
 -	دو لایه conv  و دو لایه batch normalization  یک لایه max pooling  و یک لایه drop out 
 </div>
+
+![image](https://user-images.githubusercontent.com/53640254/183661570-77da3912-8b02-41bc-a1d0-4e2a1ffa3b40.png)
+<div dir="rtl">
+
+-	معیار مقایسه بر اساس auroc
+-	پیش بینی تا 24 ساعت قبل
+
+
+**بایومارکرها**
+ </div>
+ 
+ ![image](https://user-images.githubusercontent.com/53640254/183662269-bb353b18-6bad-4534-a8ef-a95a2ee551de.png)
+
+
+article 8 mohammad hossein
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8726033/
++
+https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attacks-4-hours-before-doctors/
+
+patent fatemeh
+
+https://github.com/mohammadhoseinazaddel/Ml_Bio/edit/main/first%20phase/Articles/README.md
+
