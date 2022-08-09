@@ -1,3 +1,5 @@
+https://www.newscientist.com/article/mg22329814-400-machine-predicts-heart-attacks-4-hours-before-doctors/
+
 <div dir=”rtl”>
 برای داده ها بکی فاطمست 
 یکی mimic
