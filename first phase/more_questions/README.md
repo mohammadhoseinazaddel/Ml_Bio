@@ -7,6 +7,9 @@ https://www.usa.philips.com/healthcare/solutions/diagnostic-ecg/diagnostic-ecg
 remote and wearable 
 https://www.sciencedirect.com/science/article/abs/pii/S1547527122002156
 
+Conclusion
+Remote ECG devices provide incremental benefits over the standard 12-lead ECG or ambulatory Holter monitors in multiple aspects. They can facilitate the accurate and timely diagnosis of heart rhythm abnormalities, namely, AF. The potential integration of these tools in clinical settings or in patients' homes gives unprecedented flexibility for patients to self-monitor their heart health without interrupting daily activities or scheduling doctor visits. They also improve diagnostic value by
+
 ## second question is what are biomarkers for heart attack
 
 پاسخ به این سوال بنابر انواع که به شرح زیر است میتواند میتفاوت باشد و بایستی دو کتاب Braunwald cardiology و Harrison مطالعه شود
