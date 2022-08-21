@@ -6,7 +6,7 @@ https://www.usa.philips.com/healthcare/solutions/diagnostic-ecg/diagnostic-ecg
 
 ## second question is what are biomarkers for heart attack
 
-پاسخ به این سوال بنابر انواع که به شرح زیر است میتواند میتفاوت باشد
+پاسخ به این سوال بنابر انواع که به شرح زیر است میتواند میتفاوت باشد و بایستی دو کتاب Braunwald cardiology و Harrison مطالعه شود
 
 Coronary Artery Disease (CAD)
 
@@ -31,5 +31,3 @@ Congenital Heart Disease.
 
 هر کدوم از بیماری های قلبی هم یه سری ریسک فاکتور دارن و کتاب های مرجع برای بیماری قلبی و کلا پزشکی ابن دو کتاب بود
 
-Braunwald cardiology
-Harrison
