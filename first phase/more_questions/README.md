@@ -37,3 +37,5 @@ Congenital Heart Disease.
 
 هر کدوم از بیماری های قلبی هم یه سری ریسک فاکتور دارن و کتاب های مرجع برای بیماری قلبی و کلا پزشکی ابن دو کتاب بود
 
+در کتاب harison بخش Laboratory tests در 382ک 395 پ
+mri azmayesha ecg sigaro seno jenso ina azmayesh test phisici
