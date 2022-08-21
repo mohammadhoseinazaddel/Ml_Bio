@@ -4,6 +4,9 @@ the short answer is yes you can find lots of them with searching "ECG devices wi
 predective ecg
 https://www.usa.philips.com/healthcare/solutions/diagnostic-ecg/diagnostic-ecg
 
+remote and wearable 
+https://www.sciencedirect.com/science/article/abs/pii/S1547527122002156
+
 ## second question is what are biomarkers for heart attack
 
 پاسخ به این سوال بنابر انواع که به شرح زیر است میتواند میتفاوت باشد و بایستی دو کتاب Braunwald cardiology و Harrison مطالعه شود
