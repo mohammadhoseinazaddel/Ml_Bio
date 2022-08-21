@@ -12,7 +12,7 @@ Remote ECG devices provide incremental benefits over the standard 12-lead ECG or
 
 ## second question is what are biomarkers for heart attack
 
-پاسخ به این سوال بنابر انواع که به شرح زیر است میتواند میتفاوت باشد و بایستی دو کتاب Braunwald cardiology و Harrison مطالعه شود
+پاسخ به این سوال بنابر انواع مشکل قلبی که در بخش diorders of the heart اورده شده که تعدادی از آن ها به شرح زیر است میتواند میتفاوت باشد و بایستی دو کتاب Braunwald cardiology و Harrison مطالعه شود
 
 Coronary Artery Disease (CAD)
 
