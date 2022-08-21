@@ -39,3 +39,5 @@ Congenital Heart Disease.
 
 در کتاب harison بخش Laboratory tests در 382ک 395 پ
 mri azmayesha ecg sigaro seno jenso ina azmayesh test phisici
+chest X-ray Exercise stress test sonographer 
+https://www.healthywa.wa.gov.au/Articles/A_E/Common-medical-tests-to-diagnose-heart-conditions
